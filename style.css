@@ -42,6 +42,7 @@ a {
   }
 video {
     object-fit: cover;
+    pointer-events: none;
     z-index: 0;
     position:fixed;
     width: 100%;
