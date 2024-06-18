@@ -83,6 +83,7 @@ ion-icon {
 
 .tooltiptext {
     font-family: "Jost", sans-serif;
+    font-size: 1.125rem;
     visibility: hidden;
     width: auto;
     background-color: black;
